@@ -1,0 +1,12 @@
+const String noDataFoundSVG = "assets/images/lost_online.svg";
+const String foodPic = "assets/images/food.jpg";
+const String dorxLogo = "assets/images/dorx_logo.png";
+const String loginSvg = "assets/images/login.svg";
+const String dorxLogoLight = "assets/images/dorx_logo_light.png";
+const String defaultUserPic = "assets/images/default_profile_image.png";
+const String mapPic = "assets/images/map.jpg";
+const String welcomeSVG = "assets/images/welcome.svg";
+const String foodSVG = "assets/images/food.svg";
+const String walletSVG = "assets/images/wallet.svg";
+const String foodLogo = "assets/images/food_logo.png";
+const String foodLogoLight = "assets/images/food_logo_light.png";
